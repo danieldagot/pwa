@@ -34,7 +34,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://danieldagot.github.io/first-pwa",
+  "homepage": "https://danieldagot.github.io/pwa",
   "devDependencies": {
     "gh-pages": "^2.1.1"
   }
